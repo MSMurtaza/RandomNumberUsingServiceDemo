@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void testing() {
         int i = 1 + 1;
+        int j = 2 + 2;
     }
 
 }   // end class MainActivity
