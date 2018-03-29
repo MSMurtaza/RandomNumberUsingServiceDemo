@@ -24,5 +24,20 @@
         android:layout_height="wrap_content"
         android:text="@string/stop_button_title" />
 
+    <Button
+        android:id="@+id/bindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bind_service_button_title"/>
 
+    <Button
+        android:id="@+id/unbindService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/unbind_service_button_title"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/random_number_button_title"/>
 </LinearLayout>
