@@ -3,4 +3,7 @@
     <string name="start_button_title">Start Service</string>
     <string name="stop_button_title">Stop Service</string>
     <string name="service_demo_tag">MyService</string>
+    <string name="bind_service_button_title">Bind Service</string>
+    <string name="unbind_service_button_title">Unbind Service</string>
+    <string name="random_number_button_title">Get Random Number</string>
 </resources>
